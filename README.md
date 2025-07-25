@@ -43,20 +43,33 @@ This is a fun and educational web-based quiz game built using **Flask**, styled 
 ## 📁 Project Structure
 
 flask-quiz-app/
+
 ├── app.py
+
 ├── backend.py
+
 ├── requirements.txt
+
 ├── Procfile
+
 ├── .gitignore
+
 ├── static/
+
 │ ├── styles.css
+
 │ └── script.js
+
 ├── templates/
+
 │ ├── index.html
+
 │ ├── question.html
+
 │ └── feedback.html
 
 ⚙️ Tech Stack
+
 Python
 
 Flask
